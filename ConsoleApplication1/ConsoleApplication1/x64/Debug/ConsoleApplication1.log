@@ -1,0 +1,84 @@
+﻿  clsMainScreen.cpp
+  ConsoleApplication1.cpp
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsString.h(42,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsString.h(62,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsString.h(207,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsString.h(350,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsString.h(402,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsUser.h(237,12): warning C4240: nonstandard extension used: access to 'clsUser::sLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ConsoleApplication1.cpp')
+      D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsUser.h(43,12):
+      see declaration of 'clsUser::sLoginRegisterRecord'
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(169,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsInputValidate.h(173,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(240,12): warning C4240: nonstandard extension used: access to 'clsBankClient::sTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ConsoleApplication1.cpp')
+      D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(67,12):
+      see declaration of 'clsBankClient::sTransferLogRecord'
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(77,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(78,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(79,59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(95,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(492,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(509,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsAddNewClientScreen.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsCurrency.h(45,8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsUpdateCurrencyScreen.h(71,21): warning C4129: 'C': unrecognized character escape sequence
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsUpdateCurrencyScreen.h(30,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsCurrencyCalculatorScreen.h(49,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+  Generating Code...
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsLoginScreen.h(58,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(434,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsUser.h(402,1): warning C4715: 'clsUser::Save': not all control paths return a value
+D:\OOP Project\BankSystem\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(513,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\OOP Project\BankSystem\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
